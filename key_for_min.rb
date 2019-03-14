@@ -20,4 +20,4 @@ end
 
 
 hash = {jan: 31, feb: 28, march: 31, apr: 30}
-key_for_min_value(hash)
+puts key_for_min_value(hash)

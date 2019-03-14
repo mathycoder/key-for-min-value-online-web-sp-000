@@ -7,5 +7,5 @@ def key_for_min_value(name_hash)
 end
 
 
-hash = {5 => "blah", 10 => "bleak"}
+hash = {5 => "blah", 10 => "bleak", 3 => "another one"}
 key_for_min_value(hash)
